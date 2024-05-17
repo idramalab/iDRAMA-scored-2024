@@ -17,6 +17,12 @@ This dataset contains 57M posts from over 950 communities collected over four ye
   | [Github](https://github.com/idramalab/iDRAMA-scored-2024) | The main repository of this dataset, where we provide code-snippets to get started with this dataset. |
   | [Huggingface](https://hf.co/datasets/iDRAMALab/iDRAMA-scored-2024) | On Huggingface, we provide complete dataset with senetence embeddings. |
 
+# Getting Started
+
+- **Loading dataset from Huggingface:** [huggingface_loader.ipynb](https://github.com/idramalab/iDRAMA-scored-2024/blob/401fcd9814dfa06bbb9066cb3d21840c6bc4d682/huggingface_loader.ipynb)
+- **Loading dataset from Zenodo:** [zenodo_loader.ipynb](https://github.com/idramalab/iDRAMA-scored-2024/blob/401fcd9814dfa06bbb9066cb3d21840c6bc4d682/zenodo_loader.ipynb)
+- **Explore dataset & attributes:** [explore_dataset.ipynb](https://github.com/idramalab/iDRAMA-scored-2024/blob/401fcd9814dfa06bbb9066cb3d21840c6bc4d682/explore_dataset.ipynb)
+
 # Dataset Info
 
 Dataset is organized by yealry-comments and submissions -- comments-2020, comments-2021, comments-2022, comments-2023, submissions-2020-t0-2023.
